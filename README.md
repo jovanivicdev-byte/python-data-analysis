@@ -1,56 +1,99 @@
-# Python Data Analysis Project
+
+# Python Sales Data Analysis & Visualization
 
 ## Project Overview
 
-This is a personal Python project focused on practicing data analysis, data processing, and basic business reporting.
+A Python project that analyzes sample sales data, calculates revenue, generates CSV reports, and creates visual charts.
 
-The project demonstrates how Python can be used to organize data, perform calculations, and extract useful information from sales records.
+This project demonstrates practical Python programming, data processing, and basic business analytics skills.
 
-## Features
+## Key Features
 
-* Process and analyze sales data
-* Calculate product sales and revenue
-* Organize information into structured reports
-* Practice Python programming and problem-solving
-* Work with CSV data
+- Analyze product sales data
+- Calculate total revenue and units sold
+- Aggregate revenue by product
+- Rank products by revenue
+- Export results to a CSV file
+- Generate an SVG bar chart
+- Use reusable Python functions
 
-## Technologies
+## Technologies Used
 
-* Python 3
-* CSV
-* Data Analysis
+- Python 3
+- CSV module
+- Collections (defaultdict)
+- SVG for data visualization
+- Git and GitHub
+
+No third-party Python libraries are required.
+
+## Project Files
+
+- `analysis.py` - Main Python analysis script
+- `README.md` - Project documentation
+- `sales_report.csv` - Generated CSV report
+- `sales_chart.svg` - Generated revenue chart
+
+The CSV and SVG files are created when the script is executed.
 
 ## How to Run
 
-1. Download or clone this repository.
+1. Download or clone the repository.
 2. Make sure Python 3 is installed.
-3. Open the project folder.
-4. Run the following command:
+3. Open a terminal in the project directory.
+4. Run:
 
-`python analysis.py`
+```bash
+python analysis.py
+```
 
-## Project Structure
+The program displays a sales report and generates two files:
 
-* `analysis.py` — Main Python script
-* `README.md` — Project documentation
+- `sales_report.csv`
+- `sales_chart.svg`
 
-## Learning Objectives
+## Sample Analysis Results
 
-This project was created to improve my understanding of Python programming, data processing, analytical thinking, and basic reporting techniques.
+The example dataset contains four product categories:
+
+| Product | Revenue |
+|---------|---------|
+| Laptop | $4,250 |
+| Monitor | $1,100 |
+| Keyboard | $480 |
+| Mouse | $300 |
+
+**Total Revenue: $6,130**
+
+**Total Units Sold: 30**
+
+These results use fictional sample sales data.
+
+## Skills Demonstrated
+
+- Python programming
+- Data analysis
+- Data aggregation
+- CSV file handling
+- Data visualization
+- Problem-solving
+- Code organization
 
 ## Future Improvements
 
-* Add data visualizations and charts
-* Implement analysis of larger datasets
-* Improve reporting functionality
-* Explore Pandas and Matplotlib
+- Analyze external CSV datasets
+- Add Pandas and Matplotlib
+- Create interactive dashboards
+- Build advanced sales statistics
 
 ## Author
 
-**Jovan Ivic**
+Jovan Ivic
 
-Junior Python & Java Developer | Data Analysis | SQL
+Junior Python & Java Developer
+
+Interested in Data Analysis, Software Development, QA Testing, and IT Support.
 
 GitHub: https://github.com/jovanivicdev-byte
 
-Open to remote opportunities and junior IT positions.
+Open to Remote Opportunities.
