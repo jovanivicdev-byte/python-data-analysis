@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="366">
+<rect width="900" height="366" fill="#f8fafc"/>
+<text x="30" y="48" font-family="Arial" font-size="26" font-weight="bold" fill="#0f172a">Revenue by Product (USD)</text>
+<text x="30" y="108" font-family="Arial" font-size="19" fill="#334155">Laptop</text>
+<rect x="200" y="85" width="510.0" height="34" rx="5" fill="#0284c7"/>
+<text x="725.0" y="108" font-family="Arial" font-size="18" fill="#0f172a">$4,250.00</text>
+<text x="30" y="172" font-family="Arial" font-size="19" fill="#334155">Monitor</text>
+<rect x="200" y="149" width="132.0" height="34" rx="5" fill="#0284c7"/>
+<text x="347.0" y="172" font-family="Arial" font-size="18" fill="#0f172a">$1,100.00</text>
+<text x="30" y="236" font-family="Arial" font-size="19" fill="#334155">Keyboard</text>
+<rect x="200" y="213" width="57.6" height="34" rx="5" fill="#0284c7"/>
+<text x="272.6" y="236" font-family="Arial" font-size="18" fill="#0f172a">$480.00</text>
+<text x="30" y="300" font-family="Arial" font-size="19" fill="#334155">Mouse</text>
+<rect x="200" y="277" width="36.0" height="34" rx="5" fill="#0284c7"/>
+<text x="251.0" y="300" font-family="Arial" font-size="18" fill="#0f172a">$300.00</text>
+</svg>
